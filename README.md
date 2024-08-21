@@ -15,7 +15,7 @@
 <a href="https://www.bilibili.com/video/BV159e3eKETb/?spm_id_from=333.999.0.0" target="_blank">点击查看B站视频介绍</a>
 
 ## 功能介绍
-<img src="./images/gn.jpg" width="450" height="400" /><br>
+<img src="./images/gn.jpg" width="600" height="550" /><br>
 
 ## 技术服务
 <img src="./images/my.jpg" width="200" height="260" />
